@@ -1,0 +1,45 @@
+.pic
+{
+     margin-top:50px; 
+	 max-width:130px;
+	 max-height :120px;
+     margin-left:50px;
+	 border-radius:1%;
+     margin-bottom:-60px;
+	 border:10px;
+	 
+}
+
+.panel2
+{
+    background-image:url("https://newevolutiondesigns.com/images/freebies/abstract-background-14.jpg"); 
+}
+
+.name
+{
+    position:absolute;
+    padding-left:200px;
+    font-size:30px;
+}
+
+.dropdown
+{
+    position:absolute;
+}
+
+.change
+{
+ position:relative; 
+ bottom:20px;
+ padding:1px;
+ color:white;
+ text-decoration:none;
+}
+
+
+.change:hover
+{
+ text-decoration:none;
+ background-color:black;
+ color:white;
+}
